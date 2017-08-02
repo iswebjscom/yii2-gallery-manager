@@ -1,6 +1,6 @@
 # Gallery Manager usage instructions
 
-Yii2 port of https://github.com/zxbodya/yii-gallery-manager
+Yii2 port of https://github.com/iswebjscom/yii2-gallery-manager.git
 
 (frontend part mostly without changes, but backend was rewritten almost completely)
 
