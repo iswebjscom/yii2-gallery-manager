@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 
 class GalleryManagerAsset extends AssetBundle
 {
-    public $sourcePath = '@zxbodya/yii2/galleryManager/assets';
+    public $sourcePath = '@apolle/yii2/galleryManager/assets';
     public $js = [
         'layui.all.js',
         'jquery.iframe-transport.js',

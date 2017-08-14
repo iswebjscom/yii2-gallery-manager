@@ -45,7 +45,7 @@ class GalleryManager extends Widget
         $i18n->translations['galleryManager/*'] = [
             'class' => 'yii\i18n\PhpMessageSource',
             'sourceLanguage' => 'en-US',
-            'basePath' => '@zxbodya/yii2/galleryManager/messages',
+            'basePath' => '@apolle/yii2/galleryManager/messages',
             'fileMap' => [],
         ];
     }
