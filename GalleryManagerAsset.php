@@ -1,6 +1,6 @@
 <?php
 
-namespace zxbodya\yii2\galleryManager;
+namespace apolle\yii2\galleryManager;
 
 use Yii;
 use yii\web\AssetBundle;
