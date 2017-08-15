@@ -32,11 +32,11 @@ The preferred way to install this extension is through [composer](https://getcom
 
 Either run
 
-`php composer.phar require --prefer-dist zxbodya/yii2-gallery-manager "*@dev"`
+`composer require apolle/yii2-gallery-manager`
 
 or add
 
-`"zxbodya/yii2-gallery-manager": "*@dev"`
+`apolle/yii2-gallery-manager`
 
 to the require section of your `composer.json` file.
 
